@@ -5,6 +5,16 @@
 4. RA2512052010009 – SEPURI SAI SOWMYA- Data Science
 5. RA2512052010043 – INDU - Data Science
 
+*FRAMEWORKS / TOOLS USED*
+1. Programming Language: Python 3
+2. Big Data Framework: Apache Spark (Structured Streaming)
+3. Storage System: Hadoop HDFS
+4. Data Processing: PySpark
+5. Security & Access Control: Apache Ranger (RBAC – 4 roles with defined permissions)
+6. Metadata Management: Apache Atlas
+7. Visualization: Streamlt
+8. Machine Learning (if included): Scikit-learn / TensorFlow / Keras
+
 *PROJECT OVERVIEW*
 
 We built a complete pipeline that handles:
